@@ -1,6 +1,6 @@
 Alien Olympics game!
 
-![alt tag](https://raw.github.com/sugaroverflow/Alien-Olympics/master/blob/thegame.png)
+![alt tag](https://github.com/SugarOverflow/Alien-Olympics/blob/master/thegame.PNG)
 
 The game was a physical challenge of olympics. After most of our sensors broke in playtesting we were left with only three: the bucket with the photoresistor inside to play TOSS challenges, the helmet with the accelerometer to play TILT challenges, and the pad with the piezo element to play HOP challenges.
 
